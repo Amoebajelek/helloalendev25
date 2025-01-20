@@ -1,5 +1,11 @@
-import Image from "next/image";
+import { ModeToggle } from "@/components/mode-toggle";
 
 export default function Home() {
-  return <p>Hello World!</p>;
+  return (
+    <div className="flex h-screen justify-center items-center">
+      <div>
+        <ModeToggle />
+      </div>
+    </div>
+  );
 }
