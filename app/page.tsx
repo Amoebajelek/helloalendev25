@@ -10,7 +10,10 @@ export default function Home() {
         <div className="pt-4 px-4">
           <CardPorto2 />
         </div>
-        <div className="flex gap-4 p-4">
+        <div className="grid grid-cols-2 gap-4 p-4">
+          <CardPorto2 />
+          <CardPorto2 />
+          <CardPorto2 />
           <CardPorto2 />
           <CardPorto2 />
         </div>
