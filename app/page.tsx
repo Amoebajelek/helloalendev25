@@ -1,5 +1,5 @@
 import { Navbar } from "./_components/Navbar";
-import { CardPorto2 } from "./_components/CardPorto2";
+// import { CardPorto2 } from "./_components/CardPorto2";
 import { Footer } from "./_components/Footer";
 
 export default function Home() {
