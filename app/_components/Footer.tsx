@@ -1,4 +1,3 @@
-import { ModeToggle } from "@/components/mode-toggle";
 import Image from "next/image";
 import React from "react";
 import IconInstagram from "@/public/icon-instagram.svg";

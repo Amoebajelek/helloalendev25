@@ -1,4 +1,3 @@
-import { ModeToggle } from "@/components/mode-toggle";
 import { Navbar } from "./_components/Navbar";
 import { CardPorto2 } from "./_components/CardPorto2";
 import { Footer } from "./_components/Footer";
