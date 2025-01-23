@@ -5,18 +5,21 @@ import { Footer } from "./_components/Footer";
 export default function Home() {
   return (
     <div className="flex justify-center min-w-full min-h-screen">
-      <div className="w-6/12 py-4">
+      <div className="w-6/12 py-4 flex flex-col justify-between">
         <Navbar />
-        <div className="pt-4 px-4">
-          <CardPorto2 />
+        <div className="flex justify-center">
+          <p>Homepage</p>
         </div>
-        <div className="grid grid-cols-2 gap-4 p-4">
+        {/* <div className="pt-4 px-4">
+          <CardPorto2 />
+        </div> */}
+        {/* <div className="grid grid-cols-2 gap-4 p-4">
           <CardPorto2 />
           <CardPorto2 />
           <CardPorto2 />
           <CardPorto2 />
           <CardPorto2 />
-        </div>
+        </div> */}
         <Footer />
       </div>
     </div>

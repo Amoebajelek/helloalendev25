@@ -14,9 +14,9 @@ export const Navbar = () => {
         <Link href="/Portofolios" className="hover:text-[#FE6D3E]">
           <p>Portofolios</p>
         </Link>
-        <Link href="#" className="text-[#dcdcdc]">
+        {/* <Link href="#" className="text-[#dcdcdc]">
           <p>Blogs</p>
-        </Link>
+        </Link> */}
         <ModeToggle />
       </div>
     </div>
