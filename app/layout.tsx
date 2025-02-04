@@ -22,6 +22,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <meta http-equiv="refresh" content="5;url=https://naufalabdussyakur.notion.site/Hi-I-m-Naufal-Abdussyakur-1865d9ae1b9c80a49da5f2858485a6cb" />
       <body className={`${poppins.variable}antialiased`}>
         <ThemeProvider
           attribute="class"

@@ -8,7 +8,7 @@ export default function Home() {
       <div className="w-6/12 py-4 flex flex-col justify-between">
         <Navbar />
         <div className="flex justify-center">
-          <p>Homepage</p>
+          <p>Redirect to Notion ...</p>
         </div>
         {/* <div className="pt-4 px-4">
           <CardPorto2 />
