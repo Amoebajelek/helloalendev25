@@ -5,8 +5,8 @@ import { Footer } from "./_components/Footer";
 export default function Home() {
   return (
     <div className="flex justify-center min-w-full min-h-screen">
-      <div className="w-6/12 py-4 flex flex-col justify-between">
-        <Navbar />
+      <div className="w-6/12 py-4 flex flex-col justify-center items-center">
+        {/* <Navbar /> */}
         <div className="flex justify-center">
           <p>Redirect to Notion ...</p>
         </div>
@@ -20,7 +20,7 @@ export default function Home() {
           <CardPorto2 />
           <CardPorto2 />
         </div> */}
-        <Footer />
+        {/* <Footer /> */}
       </div>
     </div>
   );
